@@ -87,10 +87,10 @@ export const HostPortalModal: React.FC<HostPortalModalProps> = ({
       deliveryAvailable: true,
       deliveryFee: 10,
       image: newCategory === 'cameras' 
-        ? '/src/assets/images/rentora_hero_gear_1790533235373.jpg'
+        ? '/images/rentora_hero_gear_1790533235373.jpg'
         : newCategory === 'mobility'
-        ? '/src/assets/images/rentora_traveler_mobility_1790533252740.jpg'
-        : '/src/assets/images/rentora_tech_professional_1790533265910.jpg',
+        ? '/images/rentora_traveler_mobility_1790533252740.jpg'
+        : '/images/rentora_tech_professional_1790533265910.jpg',
       features: ['Verified hardware', 'Battery/charger included', 'Protective carry bag'],
       includedAccessories: ['Power cable', 'Protective travel sleeve'],
       targetSegments: ['students', 'professionals'],

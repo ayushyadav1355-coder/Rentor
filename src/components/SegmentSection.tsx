@@ -198,7 +198,7 @@ export const SegmentSection: React.FC<SegmentSectionProps> = ({
               <div className="lg:col-span-5">
                 <div className="rounded-2xl overflow-hidden shadow-lg border border-slate-200 bg-white p-4">
                   <img
-                    src="/src/assets/images/rentora_sustainability_sharing_1790533277946.jpg"
+                    src="/images/rentora_sustainability_sharing_1790533277946.jpg"
                     alt="Students borrowing creative project gear"
                     referrerPolicy="no-referrer"
                     className="w-full h-56 object-cover rounded-xl mb-4"
@@ -268,7 +268,7 @@ export const SegmentSection: React.FC<SegmentSectionProps> = ({
               <div className="lg:col-span-5">
                 <div className="rounded-2xl overflow-hidden shadow-lg border border-slate-200 bg-white p-4">
                   <img
-                    src="/src/assets/images/rentora_traveler_mobility_1790533252740.jpg"
+                    src="/images/rentora_traveler_mobility_1790533252740.jpg"
                     alt="Traveler with city e-bike"
                     referrerPolicy="no-referrer"
                     className="w-full h-56 object-cover rounded-xl mb-4"
@@ -338,7 +338,7 @@ export const SegmentSection: React.FC<SegmentSectionProps> = ({
               <div className="lg:col-span-5">
                 <div className="rounded-2xl overflow-hidden shadow-lg border border-slate-200 bg-white p-4">
                   <img
-                    src="/src/assets/images/rentora_tech_professional_1790533265910.jpg"
+                    src="/images/rentora_tech_professional_1790533265910.jpg"
                     alt="Minimalist workspace setup with laptop and portable monitor"
                     referrerPolicy="no-referrer"
                     className="w-full h-56 object-cover rounded-xl mb-4"

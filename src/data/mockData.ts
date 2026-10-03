@@ -17,7 +17,7 @@ export const INITIAL_ITEMS: RentalItem[] = [
       neighborhood: 'SoMa / Financial District',
       distance: '0.8 miles away',
     },
-    image: '/src/assets/images/rentora_tech_professional_1790533265910.jpg',
+    image: '/images/rentora_tech_professional_1790533265910.jpg',
     owner: {
       name: 'Marcus Vance',
       avatar: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=150&q=80',
@@ -58,7 +58,7 @@ export const INITIAL_ITEMS: RentalItem[] = [
       neighborhood: 'Marina & Fisherman\'s Wharf',
       distance: '1.2 miles away',
     },
-    image: '/src/assets/images/rentora_traveler_mobility_1790533252740.jpg',
+    image: '//images/rentora_traveler_mobility_1790533252740.jpg',
     owner: {
       name: 'Elena Rostova',
       avatar: 'https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=150&q=80',
@@ -99,7 +99,7 @@ export const INITIAL_ITEMS: RentalItem[] = [
       neighborhood: 'Mission District',
       distance: '1.5 miles away',
     },
-    image: '/src/assets/images/rentora_hero_gear_1790533235373.jpg',
+    image: '/images/rentora_hero_gear_1790533235373.jpg',
     owner: {
       name: 'Darius Chen',
       avatar: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=150&q=80',
@@ -138,7 +138,7 @@ export const INITIAL_ITEMS: RentalItem[] = [
       neighborhood: 'Embarcadero / Ferry Building',
       distance: '0.4 miles away',
     },
-    image: '/src/assets/images/rentora_traveler_mobility_1790533252740.jpg',
+    image: '/images/rentora_traveler_mobility_1790533252740.jpg',
     owner: {
       name: 'Maya Lin',
       avatar: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=150&q=80',
@@ -178,7 +178,7 @@ export const INITIAL_ITEMS: RentalItem[] = [
       neighborhood: 'Downtown / Union Square',
       distance: '0.6 miles away',
     },
-    image: '/src/assets/images/rentora_tech_professional_1790533265910.jpg',
+    image: '/images/rentora_tech_professional_1790533265910.jpg',
     owner: {
       name: 'Soren Nielsen',
       avatar: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&q=80',
@@ -213,7 +213,7 @@ export const INITIAL_ITEMS: RentalItem[] = [
       neighborhood: 'Presidio & Baker Beach',
       distance: '2.1 miles away',
     },
-    image: '/src/assets/images/rentora_sustainability_sharing_1790533277946.jpg',
+    image: '/images/rentora_sustainability_sharing_1790533277946.jpg',
     owner: {
       name: 'Kavita Patel',
       avatar: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=150&q=80',
@@ -252,7 +252,7 @@ export const INITIAL_ITEMS: RentalItem[] = [
       neighborhood: 'Pacific Heights',
       distance: '1.8 miles away',
     },
-    image: '/src/assets/images/rentora_hero_gear_1790533235373.jpg',
+    image: '/images/rentora_hero_gear_1790533235373.jpg',
     owner: {
       name: 'Oliver King',
       avatar: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=150&q=80',
@@ -287,7 +287,7 @@ export const INITIAL_ITEMS: RentalItem[] = [
       neighborhood: 'North Beach',
       distance: '1.1 miles away',
     },
-    image: '/src/assets/images/rentora_tech_professional_1790533265910.jpg',
+    image: '/images/rentora_tech_professional_1790533265910.jpg',
     owner: {
       name: 'Julian Hayes',
       avatar: 'https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=150&q=80',
@@ -321,7 +321,7 @@ export const INITIAL_OWNER_LISTINGS: OwnerListing[] = [
     commissionCut: 164.16, // 12%
     netEarnings: 1203.84,
     isPremium: true,
-    image: '/src/assets/images/rentora_hero_gear_1790533235373.jpg',
+    image: '/images/rentora_hero_gear_1790533235373.jpg',
   },
   {
     id: 'own-2',
@@ -335,7 +335,7 @@ export const INITIAL_OWNER_LISTINGS: OwnerListing[] = [
     commissionCut: 97.44, // 12%
     netEarnings: 714.56,
     isPremium: true,
-    image: '/src/assets/images/rentora_sustainability_sharing_1790533277946.jpg',
+    image: '/images/rentora_sustainability_sharing_1790533277946.jpg',
   },
   {
     id: 'own-3',
@@ -349,7 +349,7 @@ export const INITIAL_OWNER_LISTINGS: OwnerListing[] = [
     commissionCut: 45.36, // 12%
     netEarnings: 332.64,
     isPremium: false,
-    image: '/src/assets/images/rentora_tech_professional_1790533265910.jpg',
+    image: '/images/rentora_tech_professional_1790533265910.jpg',
   }
 ];
 

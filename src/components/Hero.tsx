@@ -239,7 +239,7 @@ export const Hero: React.FC<HeroProps> = ({
               {/* Decorative Frame */}
               <div className="relative rounded-3xl overflow-hidden shadow-2xl border border-slate-200/80 bg-slate-900 group">
                 <img
-                  src="/src/assets/images/rentora_hero_gear_1790533235373.jpg"
+                  src="/images/rentora_hero_gear_1790533235373.jpg"
                   alt="Everyday essentials available on Rentora: Laptops, bikes, and cameras"
                   referrerPolicy="no-referrer"
                   className="w-full h-80 sm:h-96 object-cover group-hover:scale-105 transition-transform duration-500"

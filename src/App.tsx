@@ -172,7 +172,7 @@ export default function App() {
         neighborhood: 'Downtown Hub',
         distance: '0.5 miles away',
       },
-      image: newItemData.image || '/src/assets/images/rentora_hero_gear_1790533235373.jpg',
+      image: newItemData.image || '/images/rentora_hero_gear_1790533235373.jpg',
       owner: {
         name: 'You (Host)',
         avatar: '',

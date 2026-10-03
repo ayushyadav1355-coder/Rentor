@@ -163,7 +163,7 @@ export const SocietalBenefitsSection: React.FC = () => {
             <div className="lg:col-span-5 space-y-4">
               <div className="relative rounded-2xl overflow-hidden aspect-[4/3] border border-slate-800">
                 <img
-                  src="/src/assets/images/rentora_sustainability_sharing_1790533277946.jpg"
+                  src="/images/rentora_sustainability_sharing_1790533277946.jpg"
                   alt="Sustainable sharing economy in action"
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover"
